@@ -12,6 +12,7 @@ Heroku Deployment: https://gory-broomstick-49038.herokuapp.com/
 
 ## Unit Tests in Education Pathways
 
+Unit test added to project: https://github.com/ECE444-2021Fall/project1-education-pathways-group-6-tensiletech/commit/005382edb33547bb82f9d23c9eab737b90fea2cb
 
 ## Pros and Cons of Test Driven Development (TDD)
 
